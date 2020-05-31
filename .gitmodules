@@ -1,0 +1,3 @@
+[submodule "submodules/Factorized-TDNN"]
+	path = submodules/Factorized-TDNN
+	url = https://github.com/kwasnydam/Factorized-TDNN.git
